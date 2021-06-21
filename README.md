@@ -6,13 +6,13 @@
 
 [*]How to install --->
 
-git clone https://github.com/Piyush916/DDOS-4-HTTP/
+1. git clone https://github.com/Piyush916/DDOS-4-HTTP/
 
-cd DDOS-4-HTTP
+2. cd DDOS-4-HTTP
 
-chmod +x DDOS-4-HTTP
+3. chmod +x DDOS-4-HTTP
 
-python DDOS-4-HTTP
+4. python DDOS-4-HTTP
 
 ENJOY!!!!
 
