@@ -12,7 +12,7 @@
 
 3. chmod +x DDOS-4-HTTP.py
 
-4. python DDOS-4-HTTP
+4. python DDOS-4-HTTP.py
 
 ENJOY!!!!
 
