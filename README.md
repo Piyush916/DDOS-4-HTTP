@@ -2,7 +2,7 @@
 
 [*] NOTE:
  
- > Performing DDOS attack against any WEBSITE without permission is ILLEGAL and is a severe Crime since it can also affect the hardware of victim's PC IF attack is performed For a long time.<
+ > Performing DDOS attack against any WEBSITE without permission is ILLEGAL and is a severe Crime since it can also affect the hardware of victim's PC IF attack is performed For a long time.
 
 [*]How to install --->
 
